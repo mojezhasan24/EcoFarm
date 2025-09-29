@@ -1,0 +1,20 @@
+<resources>
+    <color name="md_theme_primary">#1B5E20</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#4CAF50</color>
+    <color name="md_theme_onPrimaryContainer">#08250C</color>
+
+    <color name="md_theme_secondary">#2E7D32</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#A5D6A7</color>
+    <color name="md_theme_onSecondaryContainer">#07200A</color>
+
+    <color name="md_theme_background">#FFFFFF</color>
+    <color name="md_theme_onBackground">#1A1C19</color>
+
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onSurface">#1A1C19</color>
+
+    <color name="md_theme_error">#B00020</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+</resources>

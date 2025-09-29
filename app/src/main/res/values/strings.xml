@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EcoHarvester</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="no_account">No account? Sign up</string>
+    <string name="have_account">Have an account? Login</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="missions">Missions</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="complete_mission">Complete Mission</string>
+    <string name="completed">Completed</string>
+    <string name="pending">Pending</string>
+</resources>
