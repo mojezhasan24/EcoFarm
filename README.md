@@ -41,6 +41,32 @@ EcoHarvester/
  │   │   │   └── AndroidManifest.xml  
  ├── build.gradle  
  └── settings.gradle  
+Screenshots
+
+![WhatsApp Image 2025-09-30 at 1 13 35 AM](https://github.com/user-attachments/assets/24100a8d-6317-40b2-9c36-f6a4bd4fb1bd)
+
+Signup form
+
+![WhatsApp Image 2025-09-30 at 1 10 44 AM](https://github.com/user-attachments/assets/1f49e973-9c29-4ef2-87b3-0ae3cb8747d7)
+
+![WhatsApp Image 2025-09-30 at 1 11 29 AM](https://github.com/user-attachments/assets/3d2f55f2-8dd1-471c-a107-9fcb5dc58aa5)
+
+Login Form
+
+![WhatsApp Image 2025-09-30 at 1 12 22 AM](https://github.com/user-attachments/assets/b65a1d53-4eb6-40b6-a472-f597069edccc)
+
+Basic Dashboard
+
+![WhatsApp Image 2025-09-30 at 1 12 36 AM](https://github.com/user-attachments/assets/64e706de-9494-4fb6-8281-9b4a37edc7a8)
+
+User Settings
+
+![WhatsApp Image 2025-09-30 at 1 12 46 AM](https://github.com/user-attachments/assets/8a2c5418-e2b8-4ce4-a6c5-40e4e59523b3)
+
+Dummy Leaderboards
+
+
+
 
 🛠 Setup Instructions
 Clone the repository:
