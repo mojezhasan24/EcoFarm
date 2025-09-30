@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Android-Java-green?logo=android" /> <img src="https://img.shields.io/badge/Architecture-MVVM-blue" /> <img src="https://img.shields.io/badge/Database-Room-orange" /> <img src="https://img.shields.io/badge/Build-Gradle-yellow" /> </p>
 🚜 Project Overview
 
-EcoHarvester is a gamified mobile application designed to promote sustainable farming practices among farmers. Through interactive missions, rewards, and social engagement, the app educates and motivates users to adopt eco-friendly techniques—such as composting, mulching, and soil testing.
+EcoFarm is a gamified mobile application designed to promote sustainable farming practices among farmers. Through interactive missions, rewards, and social engagement, the app educates and motivates users to adopt eco-friendly techniques—such as composting, mulching, and soil testing.
 
 Although full network connectivity and hardware integration may come later, this first version uses local storage (Room DB) for authentication and mission tracking. Later versions can migrate to cloud / Firebase for real-time syncing and richer features.
 
