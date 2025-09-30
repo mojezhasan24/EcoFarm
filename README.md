@@ -1,4 +1,4 @@
-🌱 EcoFarm – SIH 2025 (PS: 25075)
+🌱 EcoHarvester – SIH 2025 (PS: 25075)
 
 <!-- Replace with actual banner -->
 
